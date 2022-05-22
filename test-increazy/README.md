@@ -1,29 +1,7 @@
 # test-increazy
 
-This template should help get you started developing with Vue 3 in Vite.
+Nesse teste foi proposta a criação de uma tela de *dasboard* para realizar a consulta e listagem de vários *CEPs* no *[ViaCEP](https://viacep.com.br/)* da maneira proposta.
 
-## Recommended IDE Setup
+## STATUS
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+terminado
